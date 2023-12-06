@@ -1,4 +1,4 @@
-# API test automation for SWAPI.dev 
+# API test automation for https://swapi.dev
 
 ## Cases implemented
 1.	Find the film with latest release date.
